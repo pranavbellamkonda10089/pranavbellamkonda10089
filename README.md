@@ -54,7 +54,7 @@
 
 * 📦 **Core Focus:** Centralizing student utility workflows and campus resources.
 * ⚡ **Architecture:** Modular components, responsive UI/UX, and optimized asset handling.
-* 🔗 **Repository:** [Explore CampusCrate Repository](https://github.com/pranavbellamkonda10089/CampusCrate)
+* 🔗 **Repository:** [Explore CampusCrate Repository](https://github.com/pranavbellamkonda10089/mern-project)
 
 ---
 
