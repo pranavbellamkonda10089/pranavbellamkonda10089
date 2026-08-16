@@ -113,17 +113,16 @@
 
 ### 📊 GitHub Activity & Metrics
 
+### 📊 GitHub Activity & Metrics
+
 <div align="center">
   <!-- Interactive Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Pranav's Activity Graph" width="98%" />
+
   <br/><br/>
 
-  <!-- GitHub Streak & Consistency Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbellamkonda10089&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4" alt="GitHub Streak" width="48%" />
-  
-  <!-- GitHub Achievements & Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pranavbellamkonda10089&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" width="48%" />
+  <!-- Low-latency Stats Banner -->
+  <img src="https://raw.githubusercontent.com/pranavbellamkonda10089/pranavbellamkonda10089/main/github-metrics.svg" onerror="this.style.display='none'" alt="" />
 </div>
 
 ---
