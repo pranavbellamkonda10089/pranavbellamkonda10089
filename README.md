@@ -114,12 +114,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbellamkonda10089&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=79C0FF&text_color=C9D1D9" height="165" alt="Pranav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbellamkonda10089&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pranavbellamkonda10089&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbellamkonda10089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbellamkonda10089&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4" alt="GitHub Streak" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
 </div>
 
 ---
