@@ -113,8 +113,6 @@
 
 ### 📊 GitHub Activity & Metrics
 
-### 📊 GitHub Activity & Metrics
-
 <div align="center">
   <!-- Interactive Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Pranav's Activity Graph" width="98%" />
