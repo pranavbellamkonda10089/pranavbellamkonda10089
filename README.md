@@ -101,13 +101,46 @@
 
 ---
 
-### 🚀 Key Projects
+### 🚀 Key Projects & Repositories
 
-├── 📦 CampusCrate              -> Centralized platform for campus utility & resource management
-├── 🎮 Tic-Tac-Toe Engine       -> CLI matrix game with dynamic win-condition evaluation in C
-├── 🔢 Number Guessing Game     -> Algorithm-driven conditional logic console game in C++
-└── ⚡ CNC Plotter & Hardware    -> Precision microcontroller firmware and motor driver integration
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📦 <a href="https://github.com/pranavbellamkonda10089/CampusCrate">CampusCrate</a></h3>
+      <p>A centralized digital ecosystem designed to streamline campus utilities, student resources, and study materials into a cohesive workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Full--Stack-00F5D4?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Web%20App-388BFD?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/pranavbellamkonda10089">2D CNC Plotter Mechanism</a></h3>
+      <p>Precision hardware drafting mechanism controlled via custom microcontroller firmware, motor stepping logic, and coordinated axis control.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Hardware-FFA657?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/pranavbellamkonda10089/C-Language/blob/main/tictactoe.c">Tic-Tac-Toe Engine</a></h3>
+      <p>Interactive 2-player CLI matrix game featuring real-time grid rendering, dynamic input validation, and win-state detection.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/CLI%20Game-7EE787?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔢 <a href="https://github.com/pranavbellamkonda10089/C-Language/blob/main/number%20guessing%20game.cpp">Number Guessing Game</a></h3>
+      <p>Algorithm-driven console game utilizing randomized numerical bounds, dynamic feedback loops, and conditional branching.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/Algorithms-F85149?style=flat-square&labelColor=0D1117" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
