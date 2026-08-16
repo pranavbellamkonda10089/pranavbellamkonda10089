@@ -114,12 +114,16 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranavbellamkonda10089&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Pranav's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbellamkonda10089&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
-</div>
+  <!-- Interactive Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+  
+  <br/><br/>
 
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <!-- GitHub Streak & Consistency Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranavbellamkonda10089&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5D4&ring=00F5D4&fire=00F5D4" alt="GitHub Streak" width="48%" />
+  
+  <!-- GitHub Achievements & Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pranavbellamkonda10089&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="GitHub Trophies" width="48%" />
 </div>
 
 ---
