@@ -18,8 +18,15 @@
 
   <!-- Real-Time LeetCode Stats -->
   <p align="center">
-    <a href="https://leetcode.com/pranavb89">
+    <a href="https://leetcode.com/prnavb89">
       <img src="https://leetcard.jacoblin.cool/pranavb89?theme=dark&font=Fira+Code&ext=heatmap" alt="Pranav's LeetCode Stats" />
+    </a>
+  </p>
+
+  <!-- GitHub Trophies -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=pranavbellamkonda10089&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Pranav's Trophies" />
     </a>
   </p>
 
@@ -154,13 +161,18 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavbellamkonda10089&layout=compact&theme=tokyo-night&hide_border=true" alt="Pranav's Top Languages" width="48%" />
+  
+  <!-- Low-latency Stats Banner -->
+  <img src="https://raw.githubusercontent.com/pranavbellamkonda10089/pranavbellamkonda10089/main/github-metrics.svg" onerror="this.style.display='none'" alt="GitHub Metrics" width="48%" />
+  
+  <br/><br/>
+  
   <!-- Interactive Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&area=true" alt="Pranav's Activity Graph" width="98%" />
-
-  <br/><br/>
-
-  <!-- Low-latency Stats Banner -->
-  <img src="https://raw.githubusercontent.com/pranavbellamkonda10089/pranavbellamkonda10089/main/github-metrics.svg" onerror="this.style.display='none'" alt="" />
+  
 </div>
 
 ---
