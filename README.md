@@ -23,11 +23,9 @@
     </a>
   </p>
 
-  <!-- GitHub General Stats -->
+  <!-- Self-Hosted GitHub Stats (100% Uptime) -->
   <p align="center">
-    <a href="https://github.com/pranavbellamkonda10089">
-      <img src="https://github-readme-stats.vercel.app/api?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&show_icons=true&count_private=true" alt="Pranav's GitHub Stats" />
-    </a>
+    <img src="https://raw.githubusercontent.com/pranavbellamkonda10089/pranavbellamkonda10089/main/custom-stats.svg" alt="Pranav's Reliable GitHub Stats" />
   </p>
 
 ---
