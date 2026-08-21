@@ -16,6 +16,13 @@
     <img src="https://komarev.com/ghpvc/?username=pranavbellamkonda10089&style=for-the-badge&color=00f5d4" alt="Profile Views" />
   </p>
 
+  <!-- Real-Time LeetCode Stats -->
+  <p align="center">
+    <a href="https://leetcode.com/pranavb89">
+      <img src="https://leetcard.jacoblin.cool/pranavbellamkonda10089?theme=dark&font=Fira+Code&ext=heatmap" alt="Pranav's LeetCode Stats" />
+    </a>
+  </p>
+
 </div>
 
 ---
