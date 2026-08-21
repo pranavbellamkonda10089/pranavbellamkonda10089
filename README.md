@@ -23,14 +23,12 @@
     </a>
   </p>
 
-  <!-- GitHub Trophies -->
+  <!-- GitHub Streak Stats -->
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=pranavbellamkonda10089&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Pranav's Trophies" />
+    <a href="https://github.com/pranavbellamkonda10089">
+      <img src="https://streak-stats.demolab.com?user=pranavbellamkonda10089&theme=tokyo-night&hide_border=true" alt="Pranav's GitHub Streak" />
     </a>
   </p>
-
-</div>
 
 ---
 
