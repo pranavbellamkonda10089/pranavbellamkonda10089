@@ -23,10 +23,10 @@
     </a>
   </p>
 
-  <!-- GitHub Streak Stats -->
+  <!-- GitHub General Stats -->
   <p align="center">
     <a href="https://github.com/pranavbellamkonda10089">
-      <img src="https://streak-stats.demolab.com?user=pranavbellamkonda10089&theme=tokyo-night&hide_border=true" alt="Pranav's GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=pranavbellamkonda10089&theme=tokyo-night&hide_border=true&show_icons=true&count_private=true" alt="Pranav's GitHub Stats" />
     </a>
   </p>
 
