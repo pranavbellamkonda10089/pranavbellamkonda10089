@@ -116,7 +116,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/pranavbellamkonda10089/CampusCrate">CampusCrate</a></h3>
+      <h3>📦 <a href="(https://github.com/pranavbellamkonda10089/mern-project)">CampusCrate</a></h3>
       <p>A centralized digital ecosystem designed to streamline campus utilities, student resources, and study materials into a cohesive workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/Full--Stack-00F5D4?style=flat-square&labelColor=0D1117" />
