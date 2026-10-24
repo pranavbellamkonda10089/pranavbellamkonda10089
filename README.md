@@ -1,5 +1,8 @@
 <div align="center">
 
+  <!-- Animated Glowing Flash Line (Top) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Light Line" />
+
   <!-- Dynamic Typing Header Banner -->
   <a href="https://github.com/pranavbellamkonda10089">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=650&lines=Hi+there%2C+I'm+Pranav+Bellamkonda+%F0%9F%91%8B;ECE+Undergrad+%40+RGMCET;Embedded+Systems+%7C+VLSI+%7C+Full-Stack;Crafting+Hardware+%26+Software+Solutions" alt="Typing SVG" />
@@ -16,9 +19,13 @@
     <img src="https://komarev.com/ghpvc/?username=pranavbellamkonda10089&style=for-the-badge&color=00f5d4" alt="Profile Views" />
   </p>
 
+  <!-- Animated Glowing Flash Line (Below Badges) -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated Light Line" />
+  <br/>
+
   <!-- Real-Time LeetCode Stats -->
   <p align="center">
-    <a href="https://leetcode.com/prnavb89">
+    <a href="https://leetcode.com/pranavb89">
       <img src="https://leetcard.jacoblin.cool/pranavb89?theme=dark&font=Fira+Code&ext=heatmap" alt="Pranav's LeetCode Stats" />
     </a>
   </p>
@@ -27,6 +34,8 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/pranavbellamkonda10089/pranavbellamkonda10089/main/custom-stats.svg" alt="Pranav's Reliable GitHub Stats" />
   </p>
+
+</div>
 
 ---
 
@@ -62,9 +71,9 @@
 
 > **CampusCrate** is an integrated platform tailored to streamline student campus resources, tools, and digital utilities into an intuitive, accessible hub.
 
-* 📦 **Core Focus:** Centralizing student utility workflows and campus resources.
-* ⚡ **Architecture:** Modular components, responsive UI/UX, and optimized asset handling.
-* 🔗 **Repository:** [Explore CampusCrate Repository](https://github.com/pranavbellamkonda10089/mern-project)
+- 📦 **Core Focus:** Centralizing student utility workflows and campus resources.
+- ⚡ **Architecture:** Modular components, responsive UI/UX, and optimized asset handling.
+- 🔗 **Repository:** [Explore CampusCrate Repository](https://github.com/pranavbellamkonda10089/mern-project)
 
 ---
 
@@ -116,7 +125,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 <a href="(https://github.com/pranavbellamkonda10089/mern-project)">CampusCrate</a></h3>
+      <h3>📦 <a href="https://github.com/pranavbellamkonda10089/mern-project">CampusCrate</a></h3>
       <p>A centralized digital ecosystem designed to streamline campus utilities, student resources, and study materials into a cohesive workflow.</p>
       <p>
         <img src="https://img.shields.io/badge/Full--Stack-00F5D4?style=flat-square&labelColor=0D1117" />
